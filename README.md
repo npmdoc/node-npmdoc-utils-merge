@@ -1,9 +1,14 @@
-# api documentation for  [utils-merge (v1.0.0)](https://github.com/jaredhanson/utils-merge#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-utils-merge.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-utils-merge) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-utils-merge.svg)](https://travis-ci.org/npmdoc/node-npmdoc-utils-merge)
+# npmdoc-utils-merge
+
+#### api documentation for  [utils-merge (v1.0.0)](https://github.com/jaredhanson/utils-merge#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-utils-merge.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-utils-merge) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-utils-merge.svg)](https://travis-ci.org/npmdoc/node-npmdoc-utils-merge)
+
 #### merge() utility function
 
-[![NPM](https://nodei.co/npm/utils-merge.png?downloads=true)](https://www.npmjs.com/package/utils-merge)
+[![NPM](https://nodei.co/npm/utils-merge.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/utils-merge)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-utils-merge/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-utils-merge_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-utils-merge/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-utils-merge/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-utils-merge/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-utils-merge/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-utils-merge/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-utils-merge/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Jared Hanson",
-        "email": "jaredhanson@gmail.com",
         "url": "http://www.jaredhanson.net/"
     },
     "bugs": {
@@ -51,13 +55,11 @@
     "main": "./index",
     "maintainers": [
         {
-            "name": "jaredhanson",
-            "email": "jaredhanson@gmail.com"
+            "name": "jaredhanson"
         }
     ],
     "name": "utils-merge",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/jaredhanson/utils-merge.git"
@@ -68,16 +70,6 @@
     "version": "1.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module utils-merge](#apidoc.module.utils-merge)
-
-
-
-# <a name="apidoc.module.utils-merge"></a>[module utils-merge](#apidoc.module.utils-merge)
 
 
 
